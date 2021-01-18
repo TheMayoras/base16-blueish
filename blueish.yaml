@@ -5,10 +5,10 @@ base01: "243C54" # lighter background (i.e. vim color column)
 base02: "46290A" # selection background
 base03: "616D78" # comments (muted text) (darker version of default foreground)
 base04: "74AFE7" # dark foreground 
-base05: "BBD2E8" # default foreground (light, slate gray)
+base05: "C8E1F8" # default foreground (light, slate gray)
 base06: "DDEAF6" # light foreground (more white than default)
 base07: "8F98A0" # light background (darker version of light foreground)
-base08: "75F475" # light green
+base08: "4CE587" # light green
 base09: "F6A85C" # rusty orange
 base0A: "82AAFF" # same as function names
 base0B: "C3E88D" # light yellow
