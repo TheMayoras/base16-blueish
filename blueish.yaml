@@ -1,7 +1,7 @@
 scheme: "better-contrast"
 author: "Ben Mayoras"
 base00: "182430" # background
-base01: "243C54" # lighter background (i.e. vim color column)
+base01: "3b5d7e" # lighter background (i.e. vim color column)
 base02: "46290A" # selection background
 base03: "616D78" # comments (muted text) (darker version of default foreground)
 base04: "74AFE7" # dark foreground 
